@@ -1,2 +1,7 @@
 #include<stdio.h>
-hello chetan
+int main()
+{
+  printf("hello guys......\n");
+  printf("how are you?\n");
+  return 0;
+}
